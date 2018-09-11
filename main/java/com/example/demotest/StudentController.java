@@ -24,7 +24,15 @@ import java.util.logging.Logger;
         students.add(new Student(4, "Jonathan", "Nordentoft", "jesper@kea.dk"));
         students.add(new Student(4, "Anders", "Nordentoft", "jesper@kea.dk"));
         students.add(new Student(4, "Claus", "Nordentoft", "jesper@kea.dk"));
-
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
 
         }
 
