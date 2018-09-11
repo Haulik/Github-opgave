@@ -21,6 +21,7 @@ import java.util.logging.Logger;
         students.add(new Student(3, "Morten", "Mortensen", "morten@kea.dk"));
         students.add(new Student(4, "Jesper", "Nordentoft", "jesper@kea.dk"));
         students.add(new Student(4, "Thomas", "Nordentoft", "jesper@kea.dk"));
+        students.add(new Student(4, "Jonathan", "Nordentoft", "jesper@kea.dk"));
 
         }
 
